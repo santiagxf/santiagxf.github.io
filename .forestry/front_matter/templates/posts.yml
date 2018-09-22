@@ -1,0 +1,11 @@
+---
+label: Posts
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: Name
+- type: datetime
+  name: Date
+- type: file
+  name: Content
