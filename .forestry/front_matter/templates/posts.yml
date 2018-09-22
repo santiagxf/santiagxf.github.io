@@ -9,3 +9,5 @@ fields:
   name: Date
 - type: file
   name: Content
+pages:
+- Frequency-Analysis-for-Time-Series-Data.md
