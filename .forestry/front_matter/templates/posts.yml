@@ -2,4 +2,11 @@
 label: Posts
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: textarea
+  name: Content
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+    required: true
